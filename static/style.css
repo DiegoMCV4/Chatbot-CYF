@@ -53,11 +53,16 @@ body {
 }
 
 .bot-avatar {
-    font-size: 2.5rem;
+    width: 60px;
+    height: 60px;
     background: rgba(255, 255, 255, 0.1);
-    padding: 10px;
+    padding: 5px;
     border-radius: 50%;
     box-shadow: 0 0 15px rgba(59, 130, 246, 0.3);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
 }
 
 h1 {
