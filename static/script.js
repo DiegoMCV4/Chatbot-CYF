@@ -8,7 +8,25 @@ marked.setOptions({
     gfm: true
 });
 
-function addMessage(content, isUser = false) {
+// --- HISTORIAL ---
+let chatHistory = JSON.parse(localStorage.getItem('chatHistory')) || [];
+
+function saveHistory() {
+    localStorage.setItem('chatHistory', JSON.stringify(chatHistory));
+}
+
+function renderHistory() {
+    chatBox.innerHTML = '';
+    if (chatHistory.length === 0) {
+        addMessage("¡Hola! Soy el asistente de Contabilidad y Finanzas creado por **Diego Martín Cruz Vázquez**. Hazme una pregunta sobre tu material de estudio.", false, false);
+    } else {
+        chatHistory.forEach(msg => {
+            addMessage(msg.content, msg.isUser, false);
+        });
+    }
+}
+
+function addMessage(content, isUser = false, save = true) {
     const msgDiv = document.createElement('div');
     msgDiv.classList.add('message', isUser ? 'user-message' : 'bot-message');
     
@@ -17,14 +35,32 @@ function addMessage(content, isUser = false) {
     
     if (isUser) {
         contentDiv.textContent = content;
+        msgDiv.appendChild(contentDiv);
     } else {
-        // Usar marked para convertir el Markdown en HTML
         contentDiv.innerHTML = marked.parse(content);
+        msgDiv.appendChild(contentDiv);
+        
+        // Agregar botón de copiar para respuestas del bot
+        const copyBtn = document.createElement('button');
+        copyBtn.classList.add('copy-btn');
+        copyBtn.innerHTML = '<svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="9" y="9" width="13" height="13" rx="2" ry="2"></rect><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path></svg> Copiar';
+        copyBtn.onclick = () => {
+            navigator.clipboard.writeText(content);
+            copyBtn.innerHTML = '<svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="20 6 9 17 4 12"></polyline></svg> Copiado!';
+            setTimeout(() => {
+                copyBtn.innerHTML = '<svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="9" y="9" width="13" height="13" rx="2" ry="2"></rect><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path></svg> Copiar';
+            }, 2000);
+        };
+        msgDiv.appendChild(copyBtn);
     }
     
-    msgDiv.appendChild(contentDiv);
     chatBox.appendChild(msgDiv);
     scrollToBottom();
+    
+    if (save) {
+        chatHistory.push({ content, isUser });
+        saveHistory();
+    }
 }
 
 function showTyping() {
@@ -91,9 +127,19 @@ userInput.addEventListener('keypress', (e) => {
     if (e.key === 'Enter') handleSend();
 });
 
-// Enfocar el input automáticamente cuando cargue la página
+// Enfocar el input y cargar historial cuando cargue la página
 window.addEventListener('load', () => {
+    renderHistory();
     userInput.focus();
+});
+
+// Botón de Limpiar Chat
+document.getElementById('clear-btn').addEventListener('click', () => {
+    if (confirm('¿Estás seguro de que quieres borrar todo el historial?')) {
+        chatHistory = [];
+        saveHistory();
+        renderHistory();
+    }
 });
 
 // Lógica para los botones de sugerencia
