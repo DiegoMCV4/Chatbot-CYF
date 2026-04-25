@@ -72,25 +72,46 @@ def preprocess_text(text):
     return chunks
 
 def get_answer(user_query, text_chunks, tfidf_vectorizer, tfidf_matrix):
+    # --- Lógica Conversacional Básica ---
+    query_lower = user_query.lower().strip()
+    saludos = ["hola", "buenas", "buenos dias", "buenos días", "buenas tardes", "buenas noches", "qué tal", "que tal", "saludos"]
+    despedidas = ["adiós", "adios", "chau", "hasta luego", "nos vemos", "bye"]
+    agradecimientos = ["gracias", "muchas gracias", "te lo agradezco", "excelente"]
+    identidad = ["quién eres", "quien eres", "qué eres", "que eres", "cómo te llamas", "como te llamas", "creador", "quien te creo"]
+
+    if any(saludo in query_lower for saludo in saludos) and len(query_lower.split()) <= 4:
+        return "¡Hola! Qué gusto saludarte. Soy el asistente de Contabilidad y Finanzas de Diego Martín. ¿En qué te puedo ayudar hoy con tu material de estudio?"
+        
+    if any(despedida in query_lower for despedida in despedidas) and len(query_lower.split()) <= 3:
+        return "¡Hasta luego! Éxito en tus estudios de Contabilidad."
+        
+    if any(agradecimiento in query_lower for agradecimiento in agradecimientos) and len(query_lower.split()) <= 4:
+        return "¡De nada! Estoy aquí para ayudarte a entender mejor la materia. ¿Tienes alguna otra duda?"
+        
+    if any(ident in query_lower for ident in identidad):
+        return "Soy un asistente virtual creado por **Diego Martín Cruz Vázquez**, diseñado especialmente para responder preguntas sobre los postulados y bases de la Contabilidad y Finanzas."
+
     # Stop words basicas de español en código duro para mejorar la búsqueda
     stop_words = ["que", "los", "las", "por", "para", "con", "del", "una", "unos", "unas", "como"]
+    search_query = user_query
     for w in stop_words:
-        user_query = user_query.replace(f" {w} ", " ")
+        search_query = search_query.replace(f" {w} ", " ")
         
-    query_vec = tfidf_vectorizer.transform([user_query])
+    query_vec = tfidf_vectorizer.transform([search_query])
     similarities = cosine_similarity(query_vec, tfidf_matrix).flatten()
     
     # Obtener los 3 mejores resultados
     best_indices = similarities.argsort()[-3:][::-1]
     
-    if similarities[best_indices[0]] < 0.03:
-        return "Lo siento, no encontré información exacta en el PDF sobre tu pregunta. Intenta reformular tus palabras clave basándote en los títulos del PDF."
+    # Bajamos el umbral para ser más permisivos y añadimos respuesta genérica amigable
+    if similarities[best_indices[0]] < 0.015:
+        return "Esa es una pregunta muy interesante 🤔, pero mi conocimiento está enfocado únicamente en **Contabilidad y Finanzas** (basado en el material de estudio). Intenta preguntarme algo sobre esos temas o usa palabras clave más específicas."
         
     response = "📖 **Basado en el documento, encontré lo siguiente:**\n\n"
     added_chunks = set()
     for idx in best_indices:
         # Mostramos los resultados que tengan un mínimo de similitud
-        if similarities[idx] >= 0.03:
+        if similarities[idx] >= 0.015:
             chunk = text_chunks[idx]
             if chunk not in added_chunks: # Evitamos cosas duplicadas
                 response += f"🔹 {chunk}\n\n"
