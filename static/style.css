@@ -154,6 +154,43 @@ h1 {
 .message-content a { color: #60a5fa; text-decoration: none; }
 .message-content a:hover { text-decoration: underline; }
 
+/* Barra de sugerencias */
+.suggestions-container {
+    padding: 10px 20px;
+    background: rgba(15, 23, 42, 0.4);
+    display: flex;
+    gap: 10px;
+    overflow-x: auto;
+    border-top: 1px solid var(--border-color);
+}
+
+.suggestions-container::-webkit-scrollbar {
+    height: 4px;
+}
+
+.suggestions-container::-webkit-scrollbar-thumb {
+    background: rgba(255, 255, 255, 0.2);
+    border-radius: 10px;
+}
+
+.suggestion-btn {
+    background: rgba(59, 130, 246, 0.15);
+    border: 1px solid rgba(59, 130, 246, 0.3);
+    color: #e2e8f0;
+    padding: 8px 14px;
+    border-radius: 15px;
+    font-size: 0.85rem;
+    white-space: nowrap;
+    cursor: pointer;
+    transition: all 0.2s ease;
+}
+
+.suggestion-btn:hover {
+    background: rgba(59, 130, 246, 0.3);
+    border-color: rgba(59, 130, 246, 0.5);
+    transform: translateY(-1px);
+}
+
 .chat-input-area {
     padding: 20px;
     background: rgba(15, 23, 42, 0.4);

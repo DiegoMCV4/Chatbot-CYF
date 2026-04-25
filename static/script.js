@@ -95,3 +95,24 @@ userInput.addEventListener('keypress', (e) => {
 window.addEventListener('load', () => {
     userInput.focus();
 });
+
+// Lógica para los botones de sugerencia
+const suggestionBtns = document.querySelectorAll('.suggestion-btn');
+suggestionBtns.forEach(btn => {
+    btn.addEventListener('click', () => {
+        // Al hacer clic, poner el texto exacto de la pregunta en el input y enviarlo
+        let question = "";
+        if (btn.innerText.includes('entidad económica')) {
+            question = "¿A qué se refiere el postulado de entidad económica?";
+        } else if (btn.innerText.includes('usuarios internos')) {
+            question = "¿Cuáles son los usuarios internos?";
+        } else if (btn.innerText.includes('contabilidad financiera')) {
+            question = "¿Qué es la contabilidad financiera?";
+        } else {
+            question = btn.innerText;
+        }
+        
+        userInput.value = question;
+        handleSend();
+    });
+});
