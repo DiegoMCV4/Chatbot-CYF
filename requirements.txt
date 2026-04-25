@@ -1,0 +1,7 @@
+flask
+gunicorn
+nltk
+scikit-learn
+PyMuPDF
+pypdf
+gradio
