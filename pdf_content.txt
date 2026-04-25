@@ -1,0 +1,938 @@
+Investigar casos reales donde se haya aplicado PCAM en sistemas distribuidos. 
+ 
+ 
+ 
+ 
+ 
+BENEMERITA 
+UNIVERSIDAD AUTÓNOMA DE CHIAPAS 
+ 
+CONTABILIDAD Y FINANZAS  
+DOCENTE: GONZÁLEZ ZÚÑIGA NURIA 
+S3 AA 
+ 
+ALUMNO: DIEGO MARTÍN CRUZ VÁZQUEZ 
+ 
+ 
+INGENIERÍA EN DESARROLLO Y TECNOLOGÍAS DE SOFTWARE 
+TUXTLA GUTIÉRREZ A 18/04/2026 
+
+1.​ Los inversionistas, acreedores, clientes y proveedores se consideran 
+usuarios internos de la información  de una organización económica   
+●​ Respuesta: (X) Falso 
+●​ Explicación: porque inversionistas, acreedores, clientes y proveedores no 
+trabajan dentro de la empresa; ellos son usuarios externos que usan la 
+información para tomar decisiones, mientras que los internos son empleados 
+y directivos.  
+2. La información administrativa es para los usuarios externos de la empresa. 
+●​ Respuesta: (X) Falso 
+●​ Explicación: La contabilidad administrativa está orientada a facilitar las 
+funciones de planeación y control para los usuarios internos (directores, 
+gerentes, jefes de departamento). La contabilidad financiera es la que se 
+dirige principalmente a usuarios externos. 
+●​ Página: 35 (Sección: "Contabilidad administrativa"). 
+5. Las normas de información financiera establecen la manera en que se 
+elabora y comunica la información financiera 
+Respuesta: VERDADERO 
+página 34 
+6. Este postulado básico de la información financiera indica el reconocimiento 
+de ingresos aunque no hayan sido cobrados:  
+●​ Respuesta: e) Devengación contable  
+●​ Explicación: porque este principio establece que los ingresos se registran 
+cuando se generan, aunque no se hayan cobrado; es decir, no importa 
+cuándo se recibe el dinero, sino cuándo ocurre la operación. 
+ 
+ 
+ 
+
+RELACIONAR COLUMNAS 
+ 
+1. Relacione cada usuario con el tipo de subsistema contable al que le brinda 
+información. 
+a) Contabilidad financiera (CF).​
+​
+​
+1. Acreedores              ( a ) 
+b) Contabilidad administrativa (CA).​
+​
+2. SHCP                      ( c ) 
+c) Contabilidad fiscal (F).​ ​
+​
+​
+3. Director general       ( b ) 
+​
+​
+​
+​
+​
+​
+​
+4. Gerentes                  ( b ) 
+​
+​
+​
+​
+​
+​
+​
+5. Intermediarios financieros   ( a ) 
+​
+​
+​
+​
+​
+​
+​
+6. Público inversionista ( a ) 
+​
+​
+​
+​
+​
+​
+​
+7. Fisco                         ( c ) 
+​
+​
+​
+​
+​
+​
+​
+8. Jefe de personal       ( b ) 
+​
+​
+​
+​
+​
+​
+​
+9. CNBV                        ( c ) 
+Respuestas: Pág. 32 ​
+​
+​
+​
+10. Empleados              ( b )  
+Ejercicio 1: Usuarios de la información financiera 
+ 
+Para cada persona enlistada se indica si es usuario de la información financiera y 
+qué tipo de usuario es: externo o interno.Nota: Todos son usuarios de la información 
+financiera. Internos: gerente de ventas, analista financiero y jefe de crédito y 
+cobranza. Externos: todos los demás. 
+Capítulo 2 Usuarios de la información financiera  Pag 29 y 31 
+Personas 
+¿Es usuario? 
+Tipo de usuario 
+Sí 
+No 
+Inversionistas 
+✓ 
+ 
+Externo 
+Bancos 
+✓ 
+ 
+Externo 
+Gerente de ventas 
+✓ 
+ 
+Interno 
+SHCP 
+✓ 
+ 
+Externo 
+Accionistas 
+✓ 
+ 
+Externo 
+Proveedores 
+✓ 
+ 
+Externo 
+Analista financiero 
+✓ 
+ 
+Interno 
+Jefe de crédito y 
+cobranza 
+✓ 
+ 
+Interno 
+Comisión Nacional 
+Bancaria y de Valores 
+✓ 
+ 
+Externo 
+Clientes 
+✓ 
+ 
+Externo 
+
+Falso o verdadero (Aseveración 4)  
+Capitulo 3 Postulados (sustancia vs consistencia) Pag. 53  
+Sustancia 
+económica 
+Especifique si la siguiente aseveración es falsa o verdadera y mencione por 
+qué. 
+Aseveración 4: “El postulado de sustancia económica indica que ante la existencia 
+de operaciones similares en una entidad, debe corresponder un tratamiento 
+contable semejante, el cual debe permanecer a través del tiempo, en tanto no 
+cambie la esencia económica de las operaciones.” 
+Respuesta: Falso 
+Justificación: 
+La aseveración describe el postulado de consistencia (uniformidad), no el de 
+sustancia económica. El postulado de consistencia establece que ante operaciones 
+similares debe aplicarse el mismo tratamiento contable de manera uniforme a lo 
+largo del tiempo. 
+El postulado de sustancia económica indica que las transacciones deben registrarse 
+conforme a su realidad económica y no únicamente según su forma jurídica. 
+ 
+ 
+Falso o verdadero 
+Especifique al final de cada aseveración si es falsa o verdadera, y mencione 
+por qué.  
+1.​ La característica de oportunidad se refiere a que tanto la información 
+presentada anticipadamente como la presentada posteriormente produciría 
+una toma de decisiones errónea. (Verdadero)  
+El libro lo confirma en la página 52 capítulo 3, sección "Características básicas de la 
+información financiera"), La afirmación del enunciado es correcta porque la 
+característica de oportunidad exige que la información financiera se emita en el 
+momento preciso. 
+3. El postulado de dualidad económica establece que todo recurso que posea 
+una entidad tiene una fuente que lo ha generado. (Verdadero)  
+Respuesta: Pág. 55 
+
+7. De acuerdo con este postulado, al registrar los efectos financieros de las 
+transacciones, deben cuantificarse en términos monetarios reconociendo el 
+valor económico más objetivo, el cual es, inicialmente, el valor de pago. 
+●​ Respuesta: a) Valuación. 
+●​ Explicación: El postulado de valuación establece que las transacciones y 
+eventos económicos deben cuantificarse en términos monetarios, atendiendo 
+a los atributos que mejor reflejen su valor económico, siendo el valor de 
+intercambio (pago) el más objetivo inicialmente. 
+●​ Página: 54 (Sección: "Postulados básicos", inciso g). 
+ 
+3. Explique qué función tienen los postulados básicos de la información 
+financiera. Los postulados básicos de la información financiera tienen como función 
+principal ser la base sobre la que se efectúa el registro contable de las operaciones 
+de una entidad. Estos supuestos fundamentales permiten que las empresas 
+presenten información financiera consistente y comparable, proporcionando un 
+sustento racional y teórico para el desarrollo de las normas de información 
+financiera (NIF).    Página 50 
+4. Indique cuáles son los postulados básicos de la información financiera. 
+Respuestas: (Libro CONTABILIDAD_PARA_NO_CONTADORES pág. 55) 
+●​ Sustancia económica 
+Descripción: El registro de las transacciones de una organización debe captar 
+la esencia económica de ésta y estar de acuerdo con su realidad económica 
+y no sólo con la forma jurídica. 
+Aplicación: Clasificación adecuada de los ingresos obtenidos por una entidad 
+o las aportaciones efectuadas por los accionistas. 
+●​ Entidad económica 
+Descripción: Establece que las operaciones y la contabilidad de una empresa 
+son independientes a las de sus accionistas, acreedores o deudores, y a las 
+de cualquier otra organización. 
+Aplicación: Distinguir entre los recursos de la empresa y los de sus 
+accionistas. 
+
+●​ Negocio en marcha 
+Descripción: Asume que la permanencia de la organización económica no 
+tendrá límite o fin, con excepción de las entidades en liquidación. 
+Aplicación: Los bienes y las deudas deben registrarse al valor de los mismos 
+en su fecha de ocurrencia. 
+●​ Devengación contable 
+Descripción: Determina el momento preciso en que las transacciones de una 
+entidad deben reconocerse contablemente. 
+Aplicación: Venta a crédito. Para efectos contables, al momento de la venta 
+se debe registrar el ingreso sin importar que no exista una entrada de 
+efectivo, pues para la compañía ya se generó ese derecho. 
+●​ Asociación de costos y gastos con ingresos 
+Descripción: Los costos y gastos de una entidad deben identificarse con los 
+ingresos que generen en el mismo periodo. 
+Aplicación: Aunque se haya pagado por anticipado la renta de un año, se 
+debe registrar dentro de los gastos del mes solamente el valor 
+correspondiente a la renta de ese mes. Los once meses restantes deberán 
+enfrentarse a los ingresos de los siguientes periodos. 
+●​ Valuación 
+Descripción: En el registro contable de una transacción se debe captar el 
+valor económico más objetivo. En un reconocimiento inicial, el valor 
+económico más objetivo es el valor original de pago. En el reconocimiento 
+posterior, dicho valor puede modificarse en caso de que cambien las 
+características o la naturaleza del elemento a ser valuado. 
+Aplicación: La adquisición de un activo debe registrarse al valor pactado de la 
+compra, aunque en el mercado tenga otro valor. 
+●​ Dualidad económica 
+Descripción: Todo recurso que posea una entidad tiene una fuente que lo ha 
+generado. 
+Aplicación: El registro contable de una transacción se integra de un cargo y 
+un abono. 
+●​ Consistencia 
+
+Descripción: Ante la existencia de operaciones similares en una entidad, 
+debe corresponder un tratamiento contable semejante, el cual debe 
+permanecer a través del tiempo, en tanto no cambie la esencia económica de 
+las operaciones.  
+Aplicación: Permite la comparabilidad de la información financiera de una 
+entidad en diferentes periodos contables y en relación con otras entidades. 
+5.- ¿A qué se refiere el postulado de entidad económica? 
+El postulado de entidad económica se refiere a que la contabilidad de una empresa 
+es independiente a la de sus accionistas, acreedores, deudores y a la de cualquier 
+otra organización. Su objetivo es evitar que se confundan las operaciones 
+económicas de la empresa con las de otras organizaciones o individuos, 
+considerando a la empresa como una unidad económica independiente de sus 
+dueños. 
+Esto implica que los recursos personales de los socios, como inmuebles, vehículos 
+u otras inversiones, deben mantenerse fuera de los registros de la empresa. Por 
+ejemplo, si un socio compra una casa para uso personal con dinero de la compañía, 
+esa transacción debe registrarse como un préstamo que el socio deberá pagar, y la 
+casa no debe aparecer como activo de la empresa. 
+Capítulo 3 - Marco conceptual de la información financiera, Pag. 53 
+6. ¿Qué establece el postulado de asociación de costos y gastos con 
+ingresos? 
+Este postulado establece que los costos y gastos de una entidad deben identificarse 
+con los ingresos que se generen en el mismo periodo, independientemente de la 
+fecha en que se cobren.  
+El postulado de asociación de costos y gastos con ingresos es el fundamento del 
+reconocimiento de una transacción en el estado de resultados; esto es, los ingresos 
+deben reconocerse en el periodo contable en el que se devengan, identificando los 
+costos y gastos (esfuerzos) que se incurrieron o consumieron en el proceso de 
+generación. ​ ​
+página 69. 
+7. ¿Qué se entiende por devengación contable? 
+
+La devengación contable es el postulado que determina el momento preciso en el 
+que deben registrarse contablemente las transacciones de una entidad económica. 
+Un ejemplo es la venta a crédito.    Pag 68pdf  
+ 
+5. Este postulado asume que la permanencia del negocio en el mercado no 
+tendrá límite por lo que no resulta válido usar valores de liquidación al 
+cuantificar sus recursos y obligaciones: 
+a) Entidad. 
+b) Sustancia económica. 
+c) Valuación. 
+d) Negocio en marcha. 
+e) Consistencia. 
+ 
+-página 53 
+ 
+8- Este postulado se refiere a que todo recurso que posea una entidad tiene 
+una fuente que lo ha generado. En términos contables, es lo que comúnmente 
+se conoce como “a todo cargo, corresponde un abono”. 
+ a) Entidad. 
+ b) Devengación contable. 
+ c) Valuación. 
+ d) Negocio en marcha. 
+ e) Dualidad económica 
+ 
+-página 54 
+ 
+ 
+ 
+Navegar por internet 
+1. Los postulados contables son algo más que simples supuestos. Visite la 
+página de la Bolsa Mexicana de Valores. En la sección de emisoras, entre al 
+apartado que corresponde a Grupo Bimbo, S.A. y responda los siguientes 
+cuestionamientos: 
+a) ¿De qué entidad se está informando? Se está informando de la entidad Grupo 
+Bimbo, S.A.B. de C.V., que es una empresa emisora que cotiza en la Bolsa 
+Mexicana de Valores bajo la clave “BIMBO”. 
+
+b ) ¿Qué otras entidades forman parte de Grupo Bimbo, S.A.? Entre las 
+principales entidades (marcas/negocios) se encuentran: 
+​
+•​
+Bimbo 
+​
+•​
+Marinela 
+​
+•​
+Tía Rosa 
+​
+•​
+Barcel 
+​
+•​
+Oroweat 
+​
+•​
+Sara Lee 
+​
+•​
+Mrs Baird’s 
+c) ¿Cómo está organizada la presentación de la información financiera de 
+dicha corporación? En la página de la BMV, la información de Grupo Bimbo está 
+organizada en diferentes secciones, principalmente: 
+​
+•​
+Perfil de la empresa 
+​
+•​
+Estadísticas de operación 
+​
+•​
+Información periódica (financiera y anual) 
+​
+•​
+Eventos relevantes 
+​
+•​
+Información jurídica y corporativa  ￼ 
+En cuanto a la información financiera, se presenta mediante: 
+​
+•​
+Reportes trimestrales y anuales 
+​
+•​
+Estados financieros (balance general, estado de resultados, etc.) 
+​
+•​
+Instrumentos financieros (acciones, deuda, certificados bursátiles)  ￼ 
+Esto sigue una estructura formal para que los inversionistas puedan analizar el 
+desempeño de la empresa. 
+
+2. El postulado de consistencia trata de promover la estabilidad en la 
+aplicación de las normas contables a través del tiempo. Con el objetivo de ver 
+cómo se instrumenta este postulado en la práctica, visite la página de la Bolsa 
+Mexicana de Valores. En la sección de emisoras, entre al apartado que 
+corresponde 
+a 
+Grupo 
+Televisa, 
+S.A. 
+y 
+responda 
+los 
+siguientes 
+cuestionamientos: 
+a ) En su opinión, ¿la información financiera que se presenta es suficiente 
+para la toma de decisiones? 
+Sí, porque son extensos y suficientes para la toma de decisiones, ya que incluyen 
+estados financieros, notas explicativas y análisis de la administración. 
+b ) ¿Qué elementos contiene? 
+Incluye el Estados de Situación Financiera Consolidados, Estados de Resultados 
+Consolidados, Estados de Resultado Integral Consolidados, Estados de Cambios en 
+el Capital Contable Consolidados, Estados de Flujos de Efectivo Consolidados y 
+Notas a los Estados Financieros Consolidados. 
+c ) Durante el periodo que se informa, ¿cambiaron algunos criterios para 
+elaborar la información financiera? 
+Normalmente, la consistencia se mantiene, pero si hubo cambios (por nuevas NIF), 
+ahí se explican detalladamente las razones y el impacto financiero para no alterar la 
+comparabilidad.                
+Respuestas: 
+(https://www.bmv.com.mx/es/emisoras/informacionfinanciera/TLEVISA-5720-CGEN_
+CAPIT) 
+ 
+ 
+ 
+4. Navegue por internet y obtenga una panorámica de los usuarios más 
+importantes de la contabilidad. Visite las páginas de intermediarios financieros 
+(bancos, casas de bolsa), agencias calificadoras y organismos reguladores. 
+Actividades de reafirmación de conceptos   
+ 
+5. Después de analizar cada uno de los usuarios trate de definir los siguientes 
+conceptos: a) ¿Cuál es el papel de cada uno de dichos usuarios?, 
+(intermediarios, calificadoras y reguladores). 
+b) ¿Para qué utilizan la información financiera? 
+c) ¿Qué tipo de decisiones toman con base en la información financiera? 
+
+ 
+USUARIOS EXTERNOS 
+Usuario 
+a) Papel 
+b) Uso de la 
+información 
+financiera 
+c) Decisiones que 
+toman 
+Acreedores Entidades que han 
+extendido crédito a la 
+empresa y tienen un 
+interés directo en su 
+capacidad de pago. 
+Analizan estados 
+financieros para 
+evaluar la liquidez de la 
+empresa, con especial 
+atención al índice 
+corriente. 
+Modificar el monto de 
+crédito otorgado o 
+exigir garantías 
+adicionales según la 
+solvencia observada. 
+Clientes 
+Compradores de 
+bienes o servicios 
+que dependen de la 
+continuidad operativa 
+de la empresa. 
+Revisan la salud 
+financiera para 
+determinar si la 
+empresa puede seguir 
+suministrando 
+productos o servicios a 
+largo plazo. 
+Decidir si continuar la 
+relación comercial o 
+buscar proveedores 
+alternativos más 
+estables. 
+Inversores Accionistas o 
+potenciales 
+accionistas que 
+aportan capital a la 
+empresa. 
+Examinan resultados 
+históricos y 
+proyecciones futuras 
+mediante estados 
+financieros, informes 
+de analistas y 
+pronósticos de la 
+dirección. 
+Comprar, mantener o 
+vender acciones, lo 
+que puede impactar 
+directamente el precio 
+bursátil de la empresa. 
+Sindicatos Representantes de 
+los trabajadores que 
+negocian en nombre 
+de los empleados. 
+Revisan los estados 
+financieros para 
+conocer la situación 
+económica real de la 
+empresa. 
+Fijar posiciones de 
+negociación en materia 
+de salarios, 
+prestaciones y 
+condiciones laborales 
+durante contratos 
+colectivos. 
+Prestadores Instituciones 
+financieras o 
+personas que han 
+otorgado préstamos 
+a la empresa. 
+Evalúan si la empresa 
+puede cumplir con el 
+pago de deudas y si 
+cuenta con colateral 
+suficiente que respalde 
+los créditos. 
+Exigir el pago 
+anticipado de 
+préstamos o extender 
+financiamiento 
+adicional según el 
+análisis de riesgo. 
+
+Reguladore
+s 
+Organismos 
+gubernamentales 
+que 
+supervisan 
+y 
+regulan la actividad 
+de las empresas en 
+sectores específicos. 
+Analizan la situación 
+financiera 
+y 
+las 
+utilidades 
+de 
+las 
+empresas 
+reguladas 
+para 
+velar 
+por 
+el 
+cumplimiento 
+normativo. 
+Determinar 
+tarifas 
+o 
+precios máximos que 
+la 
+empresa 
+puede 
+cobrar a sus clientes y 
+aplicar sanciones en 
+caso 
+de 
+incumplimiento. 
+Proveedore
+s 
+Empresas 
+o 
+personas 
+que 
+suministran bienes o 
+servicios a crédito a 
+la organización. 
+Analizan los estados 
+financieros 
+y 
+los 
+patrones históricos de 
+pago para estimar la 
+capacidad crediticia del 
+cliente. 
+Establecer 
+el monto 
+máximo de crédito que 
+están 
+dispuestos 
+a 
+otorgar o modificar los 
+plazos de pago. 
+` 
+USUARIOS INTERNOS 
+Usuario 
+a) Papel 
+b) Uso de la 
+información 
+financiera 
+c) Decisiones que 
+toman 
+Personal de 
+ventas 
+Equipo responsable 
+de generar ingresos 
+mediante la 
+comercialización de 
+productos o 
+servicios. 
+Analiza tendencias de 
+ventas para identificar 
+áreas de crecimiento y 
+evaluar el desempeño 
+individual de cada 
+vendedor. 
+Diseñar estrategias de 
+ventas, establecer 
+metas y definir 
+esquemas de 
+incentivos o 
+recompensas por 
+desempeño. 
+Personal de 
+marketing 
+Equipo encargado 
+de promover la 
+marca, atraer 
+clientes y posicionar 
+los productos en el 
+mercado. 
+Combina datos 
+financieros con 
+métricas de marketing 
+(redes sociales, 
+medios impresos, 
+radio) para evaluar la 
+rentabilidad de cada 
+canal. 
+Asignar presupuestos 
+a campañas, negociar 
+descuentos con 
+ventas y definir 
+estrategias de precio 
+según la rentabilidad 
+de cada producto. 
+Personal de 
+producción / 
+fabricación 
+Equipo responsable 
+de transformar 
+insumos en bienes 
+terminados de 
+manera eficiente. 
+Utiliza información 
+sobre costos de 
+materias primas y 
+mano de obra para 
+evaluar la eficiencia 
+del proceso 
+productivo. 
+Buscar economías de 
+escala, reducir costos 
+de producción y 
+mejorar márgenes sin 
+sacrificar calidad. 
+
+Personal de 
+logística / 
+envío 
+Equipo que gestiona 
+el flujo físico de 
+productos desde la 
+empresa hasta el 
+cliente final. 
+Examina tendencias 
+de ventas para 
+anticipar períodos de 
+alta demanda y 
+detecta anomalías 
+como el incremento de 
+devoluciones. 
+Planificar 
+contrataciones 
+temporales, ajustar 
+rutas de distribución y 
+escalar alertas sobre 
+posibles problemas de 
+calidad. 
+Personal de 
+investigación 
+y desarrollo 
+Equipo que impulsa 
+la innovación y el 
+desarrollo de 
+nuevos productos o 
+mejoras 
+tecnológicas. 
+Evalúa el potencial 
+financiero de distintos 
+proyectos de I+D 
+mediante la 
+elaboración de 
+presupuestos y 
+análisis de beneficios 
+esperados. 
+Priorizar proyectos de 
+innovación, asignar 
+recursos y definir el 
+alcance de nuevas 
+iniciativas en función 
+del retorno esperado. 
+Personal de 
+auditoría 
+interna 
+Equipo que verifica 
+la integridad de los 
+procesos y controles 
+internos de la 
+organización. 
+Cruza información 
+financiera con datos 
+de otros sistemas para 
+detectar 
+irregularidades, 
+fraudes o 
+desviaciones de los 
+procedimientos 
+establecidos. 
+Emitir 
+recomendaciones de 
+control, reportar 
+hallazgos a la 
+dirección y activar 
+procesos disciplinarios 
+o correctivos cuando 
+corresponde. 
+​ 
+​ 
+Enlaces 
+https://www.accountingtools.com/articles/external-users 
+https://oer.pressbooks.pub/utsaccounting1/chapter/who-are-the-internal-users-of-acc
+ounting-information/ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Pag 63 pdf 
+6. Visite la página de la autoridad fiscal de su país y trate de identificar los 
+siguientes aspectos: 
+a) ¿Cuáles son los diferentes conceptos por los cuales se debe pagar 
+impuestos? 
+ Impuesto sobre la renta, impuesto al valor agregado, impuesto especial sobre 
+producción y servicios e impuesto sobre automóviles nuevos, así como, las 
+declaraciones informativas, que correspondan a tus obligaciones fiscales. 
+b) ¿Cuáles son las principales obligaciones fiscales que debe cumplir una 
+empresa? 
+Las obligaciones fiscales de tu empresa del impuesto sobre la renta, impuesto al 
+valor agregado, impuesto especial sobre producción y servicios e impuesto sobre 
+automóviles nuevos, así como, las declaraciones informativas. 
+c) ¿Qué tipo de sanciones se imponen a los contribuyentes que no cumplen 
+debidamente con sus obligaciones fiscales? 
+•  Multas (Art. 70 al 91 del CFF). 
+•  Actualizaciones y Recargos (Art. 21 del CFF). 
+•  Penas privativas de la libertad (Cárcel, en caso de delitos fiscales). 
+•  Gastos de ejecución (Si el SAT tiene que embargar para cobrar). 
+1. Para cada una de las situaciones que se presentan a continuación indique 
+lo siguiente: 
+a) ¿Qué postulado es el que se aplica? (Mencione el más representativo). 
+b) Si lo que se realiza está correcto o no de acuerdo con ese postulado. 
+Se adquieren herramientas que se utilizan para dar mantenimiento a la 
+maquinaria y se estima que duren tres años. Se registra como gastos del mes 
+al momento de su adquisición el valor total 
+de las herramientas. 
+Postulado al que hace referencia: Asociación de costos y gastos con 
+ingresos 
+Lo realizado:  
+
+es correcto false 
+no es correcto _true __ 
+En los estados financieros de la empresa no se incluyen los automóviles que 
+son propiedad de los dueños del negocio. 
+Postulado al que hace referencia: Entidad económica 
+Lo realizado: 
+ es correcto __true__  
+no es correcto false 
+Los métodos de valuación de inventarios son siempre los mismos para que 
+los estados financieros de un periodo sean comparables con los del periodo 
+anterior. 
+Postulado al que hace referencia: Consistencia 
+Lo realizado: 
+es correcto __true__  
+no es correcto false 
+Se reconocen las ventas efectuadas en el mes de diciembre como ingresos 
+de ese mes, aunque el cliente realizará su pago dentro de 60 días. 
+Postulado al que hace referencia: Devengación contable 
+Lo realizado:  
+es correcto __true__  
+no es correcto false 
+El proveedor comunica a una compañía comercializadora que habrá un 
+incremento de precios por lo que ésta realiza una compra aprovechando los 
+precios actuales. A pesar del incremento 
+conocido en los precios, la compañía registra en el inventario la mercancía 
+comprada al precio de adquisición y no al nuevo precio anunciado. 
+Postulado al que hace referencia: _______ Valuación______________ 
+Lo realizado:  
+
+es correcto _true__  
+no es correcto false 
+Una empresa que planea seguir operando durante el siguiente periodo, 
+presenta todos sus activos a valores de liquidación por considerarlo más 
+apegado a la realidad. 
+Postulado 
+al 
+que 
+hace 
+referencia: 
+________ 
+Negocio 
+en 
+marcha_____________ 
+Lo realizado:  
+es correcto false 
+no es correcto _true _ 
+El importe cobrado por la renta de una bodega se ha considerado como un 
+ingreso normal de una compañía dentro del estado de resultados de un 
+negocio dedicado a la venta de colchones debido a que tiene ya más de 
+cuatro años de ocurrencia. 
+Postulado al que hace referencia: _____ Sustancia económica o 
+devengacion contable _______ 
+Lo realizado:  
+es correcto false 
+no es correcto _true__ 
+Se compra mercancía a crédito y solamente se registra un aumento en el 
+inventario. No se reconoce una disminución en el efectivo, pero tampoco la 
+deuda a los proveedores. 
+Postulado al que hace referencia: __Asociación de costos y gastos con 
+ingresos 
+y 
+también 
+junto 
+con 
+la 
+Devengación 
+contable.____________________ 
+Lo realizado:  
+es correcto false 
+no es correcto __true__ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+Para la empresa GRUMA, S.A., productora de harina de maíz y derivados que 
+cotiza acciones en la Bolsa Mexicana de Valores, identifique cuáles de los 
+clientes que se mencionan son usuarios de la información financiera de dicha 
+fábrica y diga qué tipo de decisiones toman sobre ella: 
+ 
+ 
+Personas/negocios 
+¿Es usuario? 
+Si/No 
+Decisiones que toma 
+Soriana/Tiendas 
+departamentales 
+SI 
+Deciden si compran 
+productos de GRUMA, 
+evalúan precios, calidad y 
+condiciones de pago. 
+Público inversionista 
+SI 
+ 
+Decide si invertir o no en 
+la empresa (comprar o 
+vender acciones). 
+ 
+Empleados de GRUMA 
+SI 
+Evalúan estabilidad 
+laboral, posibles 
+aumentos, prestaciones o 
+permanencia en la 
+empresa. 
+Helados 
+Sultana/Distribuidora de 
+helados 
+SI 
+Decide si seguir 
+comprando, negociar 
+precios o cambiar de 
+proveedor. 
+Accionistas 
+SI 
+Deciden mantener, vender 
+o aumentar su inversión; 
+también sobre dividendos. 
+Proveedores de maíz 
+SI 
+Deciden si otorgar crédito, 
+condiciones de venta o 
+continuar como 
+proveedores. 
+
+Banco 
+SI 
+Decide otorgar préstamos, 
+líneas de crédito y 
+condiciones de 
+financiamiento. 
+Tiendas OXXO/Tiendas de 
+conveniencia 
+SI 
+ 
+Deciden si vender 
+productos de 
+GRUMA, cuánto 
+surtir y bajo qué 
+condiciones. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
